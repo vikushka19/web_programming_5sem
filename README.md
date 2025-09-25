@@ -26,9 +26,10 @@ docker-compose up -d --build
 ```http://localhost:8080```
 📂 Содержимое проекта
 
-```docker-compose.yml``` — описание сервиса Nginx
+```nginx-lab/docker-compose.yml``` — описание сервиса Nginx
 
-```code/index.html``` — главная HTML-страница
+```nginx-lab/code/index.html``` — главная HTML-страница
+```nginx-lab/code/about.html``` — вторая HTML-страница
 
 ```screenshots/``` — все скриншоты
 
