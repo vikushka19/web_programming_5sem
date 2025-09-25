@@ -29,6 +29,7 @@ docker-compose up -d --build
 ```nginx-lab/docker-compose.yml``` — описание сервиса Nginx
 
 ```nginx-lab/code/index.html``` — главная HTML-страница
+
 ```nginx-lab/code/about.html``` — вторая HTML-страница
 
 ```screenshots/``` — все скриншоты
